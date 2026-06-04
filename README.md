@@ -83,7 +83,7 @@
 
 <h2>🤳 Connect with me</h2>
 
-<a href="[Add LinkedIn Link Here]">
+<a href="https://www.linkedin.com/in/aisha-bello-kademi-22084a256?utm_source=share_via&utm_content=profile&utm_medium=member_ios">
   <img 
     align="left" 
     width="32px"
@@ -101,23 +101,6 @@
   />
 </a>
 
-<a href="[Add Instagram Link Here]">
-  <img 
-    align="left" 
-    width="32px"
-    src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg"
-    style="background-color:white; padding:6px; border-radius:8px;" 
-  />
-</a>
-
-<a href="[Add Twitter/X Link Here]">
-  <img 
-    align="left" 
-    width="32px"
-    src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg"
-    style="background-color:white; padding:6px; border-radius:8px;" 
-  />
-</a>
 
 <br/>
 <br/>
