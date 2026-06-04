@@ -40,7 +40,7 @@
 
 <p>
   <b>Repository:</b><br/>
-  [Add Repository Link Here]
+[https://github.com/Nile-Group-28/NFC_Payment_App)](https://github.com/Nile-Group-28/NFC_Payment_App)
 </p>
 
 <h2>🎨 Front-End Development</h2>
